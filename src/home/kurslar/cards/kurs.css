@@ -1,0 +1,22 @@
+.main-card > div {
+    width: 100%;
+}
+.no-cards {
+    font-weight: bold;
+    opacity: 20%;
+    color: #ccc;
+    position: relative;
+    top: 70%;
+    left: 55%;
+    transform: translate(-50%, -50%);
+    user-select:none;
+  }
+.no-cards > h2 {
+    font-size: 8rem;
+}
+.kurslar-soni {
+font-family: sans-serif;
+font-size: 24px;
+font-weight:800;
+color: #212529;
+}

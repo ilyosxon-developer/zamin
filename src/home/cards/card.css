@@ -1,0 +1,38 @@
+.courses-container > div > div {
+    transition: transform 0.3s ease;
+    height: 600px;
+  
+  }
+  .courses-container > div > div:hover {
+    transform: scale(1.03); 
+  }
+  .course-img {
+    height: 200px;
+    width: 100%;
+  }
+  .course-content {
+      height: 240px;
+      width: 100%;  
+  }
+  .course-content-h5 {
+      height: 50px;
+      padding: 0px;
+  }
+  .course-content-sub {
+    height: 50px;
+    padding: 0px;  
+  }
+  .course-content-end{
+     margin-top: 20px;
+  }
+  .course-content-end > button {
+    background-color: #1D9DA0;
+    color: white;
+  }
+  .star {
+      margin: 0px;
+      display: flex;
+      justify-content: start;
+      padding: 0px;
+  }
+  

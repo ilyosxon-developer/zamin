@@ -1,0 +1,96 @@
+.login-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 3rem;
+  } 
+  .welcome-section {
+    max-width: 50%;
+  }
+ 
+  .welcome-section  h1 {
+    color: rgb(42, 45, 68);
+    font-weight: 800;
+    font-family: Poppins;
+    font-size: 54px;
+    font-weight: 700;
+    line-height: 70px;
+    text-decoration-skip-ink: none;
+    }
+  .welcome-section, .header-section2 p {
+      color: rgba(110, 132, 154, 1);
+    } 
+  .header-section h1 {
+  color: rgb(42, 45, 68);
+  font-weight: 800;
+  font-family: Poppins;
+  font-size: 54px;
+  font-weight: 700;
+  line-height: 70px;
+  text-decoration-skip-ink: none;
+  }
+  
+  .header-section p {
+    color: rgba(110, 132, 154, 1);
+    font-family: Poppins;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 36px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+  }
+  
+  .form-login {
+    width: 28%;
+    padding: 2rem;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  }
+  .form-login2 {
+    width: 100%;
+    padding: 2rem;
+    border-radius: 8px;
+    display: flex;
+    flex-wrap: wrap;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  }
+  .form-group {
+    margin-bottom: 1rem;
+  }
+  .btn-group {
+    width: 100%;
+    background: linear-gradient(95.57deg, #1D9DA0 -37.71%, #7378EE 137.71%);
+  }
+
+  .form-group > input {
+    height: 45px;
+    font-family: 'Poppins';
+    background: #E6F0FC;
+  }  
+  .forgot-password {
+    display: block;
+    text-align: end;
+    margin-top: 0.5rem;
+    font-size: 0.9rem;
+    color: rgba(110, 132, 154, 1);
+    text-decoration: none;
+  }
+
+.btn2 {
+  width: 35%;
+  height: 50px;
+}
+.social-buttons {
+  display: flex;
+  text-align: center;
+} 
+.social-buttons > div {
+  width: 33.4%;
+} 
+.sign-end-p {
+  color: rgba(110, 132, 154, 1);
+  text-align: center;
+  width: 100%;
+  margin-top: 50px;
+}

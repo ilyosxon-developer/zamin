@@ -1,0 +1,142 @@
+{
+    "bolimlar": [
+      { "id": "all", "label": "Barchasi" },
+      { "id": "programming", "label": "Dasturlash" },
+      { "id": "arxi", "label": "Arxitektura" },
+      { "id": "smm", "label": "SMM dizayn" },
+      { "id": "design", "label": "Grafik Dizayn" },
+      { "id": "webdesign", "label": "Web Dizayn" },
+      { "id": "robot", "label": "Robototexnika" },
+      { "id": "frontend", "label": "Frontend dasturlash" },
+      { "id": "backend", "label": "Backend dasturlash" }
+    ],
+    "courses": [
+      {
+        "id": 1,
+        "title": "Figma  darslari:UI/UX Dizayn",
+        "description": "Veb/Mobile dasturlar uchun UI/UX chizishni o’rganamiz",
+        "users": 345,
+        "option": "design",
+        "teachers": "Muhammadkarim T.",
+        "imageUrl": "../src/img/ps.png"
+      },
+      {
+        "id": 2,
+        "title": "Robototexnika asoslari",
+        "description": "Robotlar uchun Ardunio dasturida kod yozish va uni o’rnatish",
+        "users": 455,
+        "option": "robot",
+        "teachers": "Jamolxonov.I",
+        "imageUrl": "../src/img/robot.png"
+      },
+      {
+        "id": 3,
+        "title": "C++ asoslari: Kichik dasturlar tuzish",
+        "description": "Siz bilan C++ dasturlash tilida asosiy tushunchalarni o’rganamiz",
+        "users": 437,
+        "option": "c++",
+        "teachers": "Faxriddinov.A",
+        "imageUrl": "../src/img/c++.png"
+      },
+      {
+        "id": 4,
+        "title": "Photoshop  kurslari",
+        "description": "Veb/Mobile dasturlar uchun UI/UX chizishni o’rganamiz",
+        "users": 419,
+        "option": "design",
+        "teachers": "Muhammadzohid.T",
+        "imageUrl": "../src/img/ps.png"
+      },
+      {
+        "id": 5,
+        "title": "FrontEnd kurslari",
+        "description": "Web sahifalarni old qismini qilishni o’rganamiz",
+        "users": 447,
+        "option": "frontend",
+        "teachers": "MuhammadSobir.T",
+        "imageUrl": "../src/img/front-end.jpg"
+      },
+      {
+        "id": 6,
+        "title": "BackEnd kurslari",
+        "description": "Web sahifalarni orqa(yopiq) qismini qilishni o’rganamiz",
+        "users": 441,
+        "option": "backend",
+        "teachers": "Jaloldin.T",
+        "imageUrl": "../src/img/back-end.jpg"
+      },
+      {
+        "id": 7,
+        "title": "Smm kurslari",
+        "description": "Web sahifalarni old qismini qilishni o’rganamiz",
+        "users": 600,
+        "teachers": "Abdurahmon.T",
+        "imageUrl": "../src/img/smm.png",
+        "option": "smm"
+      },
+      {
+        "id": 8,
+        "title": "Figma PRO darslari:UI/UX Dizayn",
+        "description": "Veb/Mobile dasturlar uchun UI/UX chizishni o’rganamiz",
+        "users": 345,
+        "option": "design",
+        "teachers": "Muhammadkarim T.",
+        "imageUrl": "../src/img/ps.png"
+      },
+      {
+        "id": 9,
+        "title": "Robototexnika asoslari (Pro)",
+        "description": "Robotlar uchun Ardunio dasturida kod yozish va uni o’rnatish",
+        "users": 455,
+        "option": "robot",
+        "teachers": "Jamolxonov.I",
+        "imageUrl": "../src/img/robot.png"
+      },
+      {
+        "id": 10,
+        "title": "C++ asoslari: Kichik dasturlar tuzish (Pro)",
+        "description": "Siz bilan C++ dasturlash tilida asosiy tushunchalarni o’rganamiz",
+        "users": 437,
+        "option": "c++",
+        "teachers": "Faxriddinov.A",
+        "imageUrl": "../src/img/c++.png"
+      },
+      {
+        "id": 11,
+        "title": "Photoshop PRO kurslari",
+        "description": "Veb/Mobile dasturlar uchun UI/UX chizishni o’rganamiz",
+        "users": 419,
+        "option": "design",
+        "teachers": "Muhammadzohid.T",
+        "imageUrl": "../src/img/ps.png"
+      },
+      {
+        "id": 12,
+        "title": "FrontEnd kurslari (Pro)",
+        "description": "Web sahifalarni old qismini qilishni o’rganamiz",
+        "users": 447,
+        "option": "frontend",
+        "teachers": "MuhammadSobir.T",
+        "imageUrl": "../src/img/front-end.jpg"
+      },
+      {
+        "id": 13,
+        "title": "BackEnd kurslari (Pro)",
+        "description": "Web sahifalarni orqa(yopiq) qismini qilishni o’rganamiz",
+        "users": 441,
+        "option": "backend",
+        "teachers": "Jaloldin.T",
+        "imageUrl": "../src/img/back-end.jpg"
+      },
+      {
+        "id": 14,
+        "title": "Smm kurslari (Pro)",
+        "description": "Web sahifalarni old qismini qilishni o’rganamiz",
+        "users": 600,
+        "teachers": "Abdurahmon.T",
+        "imageUrl": "../src/img/smm.png",
+        "option": "smm"
+      }
+    ]
+  }
+  

@@ -1,0 +1,40 @@
+.zamin-talim-container {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 20px;
+    color: #333;
+  }
+  
+  .zamin-title {
+    font-size: 2.5rem;
+    color: #2c3e50;
+    margin-bottom: 10px;
+  }
+  
+  .zamin-subtitle {
+    font-size: 1.2rem;
+    text-align: center;
+    color: #7f8c8d;
+    margin-bottom: 30px;
+  }
+
+h3 {
+    font-family: Josefin Sans;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 28px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+
+}
+p {
+    font-family: Josefin Sans;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 28px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+}
+  

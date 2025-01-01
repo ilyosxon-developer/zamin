@@ -1,0 +1,87 @@
+.header-title , .header-title2 {
+    color: #232857;
+}
+
+.header-title {
+font-size: 54px;
+font-weight: 700;
+line-height: 80px;
+}
+.header-title2 {  
+font-size: 46px;
+font-weight: 700;
+line-height: 50px;
+}
+.header-p {
+    font-size: 25px;
+    font-weight: 400;
+    line-height: 36px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;    
+    color: #6E849A;
+}
+  .header-btn {
+    background: linear-gradient(95.57deg, #1D9DA0 -37.71%, #7378EE 137.71%);
+    color: white;
+    height: 4rem
+  }
+  .header-btn2 {
+    width: 50%;
+    display: flex;
+    align-items: center;
+  }
+  /* Responsive Design - Mobile */
+@media (max-width: 767px) {
+  .header-title {
+      font-size: 40px;  /* Smaller font size */
+      line-height: 60px; /* Adjust line-height */
+  }
+
+  .header-title2 {
+      font-size: 36px;  /* Smaller font size */
+      line-height: 40px; /* Adjust line-height */
+  }
+
+  .header-p {
+      font-size: 20px;  /* Smaller font size */
+      line-height: 30px; /* Adjust line-height */
+  }
+
+  .header-btn {
+      width: 100%; /* Button takes full width */
+      height: 3rem; /* Reduce button height */
+  }
+
+  .header-btn2 {
+      width: 100%; /* Button container takes full width */
+      justify-content: center; /* Center the button */
+  }
+}
+
+@media (max-width: 570px) {
+  .header-title {
+      font-size: 32px; /* Further smaller font size */
+      line-height: 48px; /* Adjust line-height */
+  }
+
+  .header-title2 {
+      font-size: 30px; /* Further smaller font size */
+      line-height: 35px; /* Adjust line-height */
+  }
+
+  .header-p {
+      font-size: 18px; /* Even smaller font size */
+      line-height: 28px; /* Adjust line-height */
+  }
+
+  .header-btn {
+      font-size: 14px; /* Smaller text size for button */
+      height: 2.5rem; /* Reduce button height */
+  }
+
+  .header-btn2 {
+      width: 100%; /* Full width for small screens */
+      justify-content: center; /* Center the button */
+  }
+}
